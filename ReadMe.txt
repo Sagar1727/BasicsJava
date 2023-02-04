@@ -17,3 +17,6 @@ git status
 
 git add file_name
 git add .
+
+
+git commit -m "We just added ReadMe Initial Context"
