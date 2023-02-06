@@ -29,6 +29,4 @@ public class DataTypesInJava {
 }
 
 
-class A {
 
-}

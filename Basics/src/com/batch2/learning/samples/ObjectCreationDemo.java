@@ -7,7 +7,6 @@ public class ObjectCreationDemo {
         //class_name reference_variable = new class_name();
         ObjectCreationDemo objectCreationDemo = new ObjectCreationDemo();
         User user = new User();
-
     }
 }
 

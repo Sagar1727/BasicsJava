@@ -2,10 +2,11 @@ package com.batch2.learning.samples;
 
 public class MethodsDemo {
 
-
+     // Variable syntax
     //date_type variable_name = value;
+      int x = 100;
 
-    //syntax
+    //Method syntax
     //access_modifiers return_type method_name(parameters-list){
     //body
     //}

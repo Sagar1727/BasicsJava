@@ -39,6 +39,7 @@ class Data {
         int sum = 0;
 
         for (int i = 1; i <= number; i++) {
+
             sum = sum + i;
         }
 
@@ -55,6 +56,7 @@ class Data {
 
 
     int getLengthOfName(String firstname, String lastName) {
+
         return (firstname + " " + lastName).length();
     }
 }

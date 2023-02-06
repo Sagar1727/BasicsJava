@@ -9,7 +9,7 @@ public class StaticAndNonStaticDemo {
     public static void main(String[] args) {
         int x = 20;
         //Same class static data
-        System.out.println(a);//From static block we can access static data only
+        System.out.println(a);//From static block we can access static data only without creating any object
         show();
 
         //Same class Non-static data
@@ -19,6 +19,7 @@ public class StaticAndNonStaticDemo {
 
 
         //Different class static data access
+
         System.out.println(Sunny.color);
         Sunny.education();
 
