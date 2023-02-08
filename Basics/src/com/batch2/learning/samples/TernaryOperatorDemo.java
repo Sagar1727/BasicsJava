@@ -16,8 +16,9 @@ public class TernaryOperatorDemo {
 }
 
 //Unary Operator(how many operands) ++a;--;!a
-//Binary Operator : a+b,a/b;a-b,a%ba>ba<=b
+//Binary Operator :  a+b,a/b;a-b,a%ba>ba<=b
 //Ternary Operator
+
 
 
 

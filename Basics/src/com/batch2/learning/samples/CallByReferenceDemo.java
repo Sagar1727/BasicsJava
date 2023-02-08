@@ -17,9 +17,9 @@ public class CallByReferenceDemo {
     }
 
 
-    void callByReference(Info info2) {
-        info2.a = info2.a + 100;
-        info2.b = info2.b + 200;
+    void callByReference(Info sun) {
+        sun.a = sun.a + 100;
+        sun.b = sun.b + 200;
     }
 }
 

@@ -9,8 +9,9 @@ public class ConditionalStatements {
         int number = scanner.nextInt();
 
         //if(expression || condition)
-        if (number % 2 == 0) {//Modulus
-            System.out.println("The given number id EVEN");
+        if (number %2 == 0) {//Modulus
+            System.out.println("The given number is EVEN");
+
         }
 
         if("suresh".length() == 6){

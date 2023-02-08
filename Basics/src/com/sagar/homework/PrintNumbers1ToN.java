@@ -1,6 +1,4 @@
-package com.sagar.learning;
-
-import com.sun.deploy.net.proxy.WDefaultBrowserProxyConfig;
+package com.sagar.homework;
 
 import java.util.Scanner;
 
