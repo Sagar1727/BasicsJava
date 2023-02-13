@@ -32,3 +32,5 @@ public class VarArgsDemo {
         return sum;
     }
 }
+
+//Variable length arguments
