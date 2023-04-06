@@ -2,14 +2,15 @@ package com.batch2.learning.samples.constructors;
 
 public class ConstructorsDemo {
     public static void main(String[] args) {
-        Employee employee = new Employee(1, "Sunny", 34000);
+       Employee employee = new Employee(1, "Sunny", 34000);
         Employee employee1 = new Employee(2, "Girish", 60000);
         Employee employee2 = new Employee(3, "Suresh", 20000);
         /*System.out.println(employee.getId());
         System.out.println(employee.getName());
         System.out.println(employee.getSalary());*/
 /*        String str = "Java 8";
-        System.out.println(str);*/
+//        System.out.println(str);*/
+
 
         System.out.println(employee);
         System.out.println(employee1);
